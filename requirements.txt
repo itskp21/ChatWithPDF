@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+langchain  # Adjust to the latest version you are using
+langchain-community # Replace with the actual version if available
+langchain-google-genai  # Replace with the actual version if available
+python-dotenv
